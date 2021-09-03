@@ -1,1 +1,1 @@
-"# ExchangeRateApi" 
+# ExchangeRateApi
